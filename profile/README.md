@@ -1,4 +1,8 @@
-## Hi there 👋
+## Bean Beaver Studio
+
+Bean Beaver Studio is a small indie game development studio that is currently working on releasing its first game, Cheddar Chase. Try the demo on [itch.io/cheddar-chase](https://rasmussvala.itch.io/cheddar-chase).
+
+![image](https://github.com/user-attachments/assets/ff96f6c8-6ec4-47ab-a639-8778ecd1e7b5)
 
 <!--
 
